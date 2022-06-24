@@ -8,6 +8,5 @@ function Swipebuttons() {
     </div>
   )
 }
-// asdasd
-
+// viudytiuth
 export default Swipebuttons
